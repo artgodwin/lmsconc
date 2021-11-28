@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/oscplay.dir/oscplay.c.o  -o CMakeFiles/CMakeRelink.dir/oscplay -rdynamic -lm -llo -lpthread 

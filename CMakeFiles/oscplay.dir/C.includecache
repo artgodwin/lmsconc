@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Projects/lmsconc/oscplay.c
+stdio.h
+-
+stdlib.h
+-
+getopt.h
+-
+string.h
+-
+stdint.h
+-
+time.h
+-
+math.h
+-
+ctype.h
+-
+lo/lo.h
+-
+lo/lo_lowlevel.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/oscrec.dir/oscrec.c.o  -o CMakeFiles/CMakeRelink.dir/oscrec -rdynamic -lm -llo -lpthread 

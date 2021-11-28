@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/lmsconc.dir/lmsconc.c.o CMakeFiles/lmsconc.dir/objects.c.o -o lmsconc  -lm -llo -lpthread 

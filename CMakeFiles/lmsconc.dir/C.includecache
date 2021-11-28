@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Projects/lmsconc/lms.h
+
+/home/adrian/Projects/lmsconc/lmsconc.c
+stdio.h
+-
+stdlib.h
+-
+getopt.h
+-
+string.h
+-
+signal.h
+-
+ctype.h
+-
+time.h
+-
+math.h
+-
+lo/lo.h
+-
+lo/lo_lowlevel.h
+-
+lms.h
+/home/adrian/Projects/lmsconc/lms.h
+
+/home/adrian/Projects/lmsconc/objects.c
+stdlib.h
+-
+math.h
+-
+stdio.h
+-
+lms.h
+/home/adrian/Projects/lmsconc/lms.h
+
